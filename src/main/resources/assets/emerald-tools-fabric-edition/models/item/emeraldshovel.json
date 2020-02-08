@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "emerald-tools-fabric-edition:emerald_axe"
+  }
+}

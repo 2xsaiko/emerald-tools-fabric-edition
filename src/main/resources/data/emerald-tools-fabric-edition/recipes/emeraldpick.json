@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["eee", " s ", " s " ],
+  "key": {
+    "e": { "item": "minecraft:emerald" },
+    "s": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "emerald-tools-fabric-edition:emeraldpick",
+    "count": 1
+  }
+}
+

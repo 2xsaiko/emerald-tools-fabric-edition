@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "emerald-tools-fabric-edition",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "emerald tool s",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "2xsaiko"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
-  "license": "CC0-1.0",
+  "license": "ARR",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
